@@ -1,0 +1,552 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.14)  22 SEP 2014 20:22
+entering extended mode
+**Thesis
+(C:\Users\ceharvey\Documents\Personal\Thesis\Latex\Thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\scrartcl.cls
+Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+
+
+Package scrartcl Warning: You've used obsolete option `9pt'.
+(scrartcl)                Usage of this option indicates an old document and
+(scrartcl)                is deprecated.
+(scrartcl)                You should simply replace
+(scrartcl)                usage of option `9pt' by `fontsize=9pt'.
+
+Class scrartcl Info: Switching compatibility level to `first'.
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `twocolumn'
+(scrbase)             of member `.scrartcl.cls' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 1150.
+Class scrartcl Info: File `size9.clo' used to setup font sizes on input line 15
+31.
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\extsizes\size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\koma-script\typearea.sty
+Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
+
+Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+
+Package typearea Warning: DIV for 9.0pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=1.
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 22
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 516.02962pt
+(typearea)              DIV departure   = 15%
+(typearea)              \evensidemargin = -31.53084pt
+(typearea)              \oddsidemargin  = -31.53084pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 731.6998pt
+(typearea)              \topmargin      = -63.97124pt
+(typearea)              \headheight     = 13.68748pt
+(typearea)              \headsep        = 16.42499pt
+(typearea)              \topskip        = 9.0pt
+(typearea)              \footskip       = 38.32497pt
+(typearea)              \baselineskip   = 10.95pt
+(typearea)              on input line 1330.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen102
+) (C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip51
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count101
+)
+\c@KVtest=\count102
+\sf@farskip=\skip52
+\sf@captopadj=\dimen121
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip55
+\sf@bottom=\skip56
+)
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen122
+)
+No file Thesis.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen123
+\scratchbox=\box29
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen124
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks22
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+ (C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(C:\Users\ceharvey\Desktop\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+<Fig1.png, id=1, 429.85594pt x 307.1475pt>
+File: Fig1.png Graphic file (type png)
+ <use Fig1.png>
+Package pdftex.def Info: Fig1.png used on input line 34.
+(pdftex.def)             Requested size: 226.48398pt x 161.83131pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 34--35
+ [][] 
+ []
+
+
+Overfull \hbox (20.78108pt too wide) in paragraph at lines 40--63
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+[1
+
+{C:/Users/ceharvey/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+ <C:/Users/ceharvey/Documents/Personal/Thesis/Latex/Fig1.png>]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+<GUIscreen.png, id=17, 584.93532pt x 291.33844pt>
+File: GUIscreen.png Graphic file (type png)
+ <use GUIscreen.png>
+Package pdftex.def Info: GUIscreen.png used on input line 146.
+(pdftex.def)             Requested size: 226.48398pt x 112.80356pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 146--147
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<GUIChart.png, id=18, 867.24pt x 510.90875pt>
+File: GUIChart.png Graphic file (type png)
+ <use GUIChart.png>
+Package pdftex.def Info: GUIChart.png used on input line 152.
+(pdftex.def)             Requested size: 226.48398pt x 133.42561pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <C:/Users/ceharvey/Documents/Personal/Thesis/Latex/GUIscreen.png> <C:/Users
+/ceharvey/Documents/Personal/Thesis/Latex/GUIChart.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+ [4]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+[5]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]\OT1/cmr/m/n/9 Trial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]\OT1/cmr/m/n/9 Living
+ []
+
+
+Overfull \hbox (8.47961pt too wide) in paragraph at lines 237--237
+[]\OT1/cmr/m/n/9 Deceased
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 237--237
+[]\OT1/cmr/m/n/9 Waiting List
+ []
+
+[6] <MEGOut.png, id=32, 554.07pt x 246.9225pt>
+File: MEGOut.png Graphic file (type png)
+ <use MEGOut.png>
+Package pdftex.def Info: MEGOut.png used on input line 280.
+(pdftex.def)             Requested size: 226.48398pt x 100.93369pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 280--281
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+[7 <C:/Users/ceharvey/Documents/Personal/Thesis/Latex/MEGOut.png>]
+Underfull \hbox (badness 2020) in paragraph at lines 304--305
+[]\OT1/cmr/m/n/9 Health Re-sources and Ser-vices Ad-min-is-tra-tion,
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 308--309
+\OT1/cmr/m/n/9 able from: http://www.kidneyfund.org/kidney-
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+
+Underfull \hbox (badness 6380) in paragraph at lines 314--315
+[]\OT1/cmr/m/n/9 National Kid-ney Fon-da-tion, Inc. End The
+ []
+
+
+Overfull \hbox (47.89893pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/9 http://www.kidney.org/transplantation/endthewait/index.cfm. 
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 317--318
+\OT1/cmr/m/n/9 Com-put-ing for Legacy Sim-u-la-tions. in Clus-ter,
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 317--318
+\OT1/cmr/m/n/9 IEEE/ACM In-ter-na-tional Sym-po-sium on. 2012.
+ []
+
+[8]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+ [9
+
+] (C:\Users\ceharvey\Documents\Personal\Thesis\Latex\Thesis.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4485 strings out of 493921
+ 68394 string characters out of 3148877
+ 186465 words of memory out of 3000000
+ 7740 multiletter control sequences out of 15000+200000
+ 12413 words of font info for 47 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 50i,9n,54p,884b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/ceharvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Users/ceharvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Users/ceharvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/User
+s/ceharvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users
+/ceharvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ceh
+arvey/Desktop/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Thesis.pdf (9 pages, 265238 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
