@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/KTPM/Image.png</name>
-			<type>1</type>
-			<location>C:/Users/ceharvey/Documents/Java/EclipseWkspace/KTPM/src/KTPM/Image.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
