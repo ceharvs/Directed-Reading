@@ -16,9 +16,9 @@ public class Patients extends SimState
 	public int yearlyAdditions;					//Number of yearly additions to the list
 	public static boolean equalLiving = true;  //Variable to determine if equal odds of 
 												//receiving a living donor transplant
-	public static double livingF = 0.0;			//Living Factor (When set to 0, process 
+	public static double livingF = 1.0;			//Living Factor (When set to 1, process 
 													//continues as normal)
-	public static double deceasedF = 0.0;		//Deceased Factor (When set to 0, process 
+	public static double deceasedF = 1.0;		//Deceased Factor (When set to 1, process 
 													//continues as normal)
 	public double deceasedMult = 1.0;			//Deceased Multiplier = 
 													//number of initial patients/current waiting list size
