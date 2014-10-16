@@ -21,5 +21,5 @@ Different items can be adjusted under the CONSOLE tab such as an automatic stop 
 ### KTPM JAR
 Command Line:
 $ java -jar KTPM.jar NumberOfPatients DeceasedFactor LivingFactor EqualLiving
-Where EqualLiving is True/False
+Where EqualLiving is true/false
 

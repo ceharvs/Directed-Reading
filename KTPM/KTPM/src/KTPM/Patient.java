@@ -158,8 +158,8 @@ public class Patient implements Steppable{
 			 * and the LF and DF used in the simulation.
 			 */
 			
-			double getLiving = (1.0 + LF) * probLivngTrans[patient.ethnicity][patient.ageGroup];
-			double getDeceased = (DM * (1.0 + DF)) * probDeceasedTrans[patient.ethnicity][patient.ageGroup];
+			double getLiving = LF * probLivngTrans[patient.ethnicity][patient.ageGroup];
+			double getDeceased = (DM * DF) * probDeceasedTrans[patient.ethnicity][patient.ageGroup];
 			double getDieWait = probDieWait[patient.ethnicity][patient.ageGroup];
 			double getOther = probOther[patient.ethnicity][patient.ageGroup];
 			//Account for Equalizer
