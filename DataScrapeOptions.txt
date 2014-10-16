@@ -7,35 +7,35 @@ A - Waiting List Additions
 R - Waiting List Removals
 
 									Columns:		Rows:
-ABO - 5 items						T|M|D|W|A|R		T|D|M|W
-Age - 9 items						T|M|D|W|A|R		T|D|M|W
-Age - Paediatric/Adult - 4 items	T|M|D|W|A|R		T|D|M|W
-Citizenship - 8 items				T|W|A|R			T|W
-Diagnosis - 292 items								T|W
-Donation Service Area - 86 items					T|D|M|W
+ABO - 5 items						T|M|D|W|A|R		T|D|M|W|A|R
+Age - 9 items						T|M|D|W|A|R		T|D|M|W|A|R
+Age - Paediatric/Adult - 4 items	T|M|D|W|A|R		T|D|M|W|A|R
+Citizenship - 8 items				T|W|A|R			T|W|A|R
+Diagnosis - 292 items								T|W|A|R
+Donation Service Area - 86 items					T|D|M|W|A|R
 Donation Year - 27 items			D				D
 Donor Cause of Death - 7 items		D				D
 Donor Relation - 16 items			T				T
 Death Circumstance - 9 items		D				D
 Death Mechanism	- 15 items			D				D
-Donor Type - 2 items				T|D				T|D
-Ethnicity - 9 items					T|M|D|W|A|R		T|D|M|W
-Gender - 3 items					T|M|D|W|A|R		T|D|M|W
-Registrations - 1 item				W|A|R			W
-Candidates - 1 item					W|A|R			W
-List Year - 27 items				A				
+Donor Type - 2 items				T|D				T|D|A
+Ethnicity - 9 items					T|M|D|W|A|R		T|D|M|W|A|R
+Gender - 3 items					T|M|D|W|A|R		T|D|M|W|A|R
+Registrations - 1 item				W|A|R			W|A|R
+Candidates - 1 item					W|A|R			W|A|R
+List Year - 27 items				A				A
 Multiple Organ - 25 items							M
-Count - 2 items 					W|A|R			W
-Organ - 8 items 					T|D|W|A|R		T|D|W
-Heart/Liver/Lung Status - 34 items					T|W
+Count - 2 items 					W|A|R			W|A|R
+Organ - 8 items 					T|D|W|A|R		T|D|W|A|R
+Heart/Liver/Lung Status - 34 items					T|W|A|R
 Organs Recovered - 6 items			D				D
 Organs Transplanted - 6 items		D				D
-Previous Transplant - 2 items		T|W|A|R			T|W
-Region - 12 items					T|M|D|W|A|R		T|D|M|W
-Removal Reason - 21 items			R				
-Removal Year  - 27 items			R				
-State - 53 items									T|D|W
+Previous Transplant - 2 items		T|W|A|R			T|W|A|R
+Region - 12 items					T|M|D|W|A|R		T|D|M|W|A|R
+Removal Reason - 21 items			R				R
+Removal Year  - 27 items			R				R
+State - 53 items									T|D|W|A|R
 Transplant Year - 27 items 			T|M				T|M
-Transplant Center - 332 items						T|W
+Transplant Center - 332 items						T|W|A|R
 Multiple Organ						M				
 Waiting Time						W				W

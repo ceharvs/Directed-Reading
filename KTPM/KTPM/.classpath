@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="C:/Users/ceharvey/Documents/Java/jfreechart-1.0.14/jfreechart-1.0.14-demo.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ceharvey/Documents/MEG/MEGFiles/mason.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chris_000/Documents/school/Directed-Reading/KTPM/KTPM/mason.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chris_000/Documents/school/Directed-Reading/KTPM/KTPM/mason/jar/mason.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
