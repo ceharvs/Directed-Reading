@@ -10,7 +10,7 @@
 
 ### Model Inputs
 Number of Patents - Number of initial patients on the waiting list in the simulation
-Deceased Factor - Percent increase over the current current/standard number of deceased donors by.  For example, a deceased factor of 0.0, makes no change to the number of yearly deceased donor organs available.  A deceased factor of 1.0 corresponds to a 100% increase in the number of deceased donor organs available.
+Deceased Factor - Percent increase over the current current/standard number of deceased donors by.  For example, a deceased factor of 1.0, makes no change to the number of yearly deceased donor organs available.  A deceased factor of 2.0 corresponds to doubling the number of deceased donor organs available.
 Deceased Factor - Percent increase over the current current/standard number of living donors.
 Equal Living - Boolean Varaible determining if the living donations should be brought up to the probability that white donors (the highest rate of living organ donations) have.
 
