@@ -23,3 +23,21 @@ The WEKA (http://www.cs.waikato.ac.nz/ml/weka/) toolkit was used for the impleme
 ###2011 U.S. Organ and Tissue Transplant Cost Estimates and Discussion
 http://publications.milliman.com/research/health-rr/pdfs/2011-us-organ-tissue.pdf
 Report on the costs of organ transplants in the US.  Average costs per member per month (PMPM) of the billed charges and utilization related to the 30 days before and 180 days folowing a transplant.  Interesting report given with estimated costs for everything.  
+
+###Organ Donation: Is an opt-in or opt-out system better
+http://www.medicalnewstoday.com/articles/282905.php
+Analysis of 48 countries to see if opt-out or opt-in is a better approach.  They don't go into hard/soft opt out.  In 2013, 28K transplants were performed.  Countried with opt-out systems had a higher total number of kidneys fonated.  Opt-out systems also have the greatest overall number of transplants.  Opt-in systems have a higher rate of kidney donations from living donors.  !! Spain seems to have the best network!!
+
+###TRANSPLANT NEPHROLOGISTS AND SURGEONS: DO MORE TO INCREASE LIVING DONATION
+http://www.kidney.org/news/transplant-nephrologists-and-surgeons-do-more-increase-living-donation
+Transplant surgons believe there aren't enough benefits to becoming a living organ donor.  These medical professionals believe that there should be full reimbursement of out-of-pocket expenses such as medical bills, and childcare costs associated with organ donation.  Strategies vary around the world for rewarding living donation.  Some professionals said they agreed (in principal) with limited, government regulated trial of financial incentives for living kidney donation.  
+
+###Others
+http://www.ncbi.nlm.nih.gov/pubmed/18336698
+http://www.nejm.org/doi/full/10.1056/NEJM198502283120905 - can't access
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3644053/pdf/nihms224965.pdf
+http://onlinelibrary.wiley.com/doi/10.1111/j.1600-6143.2011.03902.x/pdf
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2517970/pdf/11606_2008_Article_628.pdf
+http://onlinelibrary.wiley.com/doi/10.1111/j.1600-6143.2010.03211.x/pdf
+http://www.ncbi.nlm.nih.gov/pubmed/12807104 - can't access
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8322.2011.00837.x/pdf - can't access
